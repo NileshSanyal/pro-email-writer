@@ -1,4 +1,4 @@
-## Local LM Studio Setup Guides
+## Local Development Envionment Setup Guide
 Prequisites
 - Local LLM downloaded in LM Studio (preferably Llama 3.2 1B)
 - Run the LLM from LM Studio
